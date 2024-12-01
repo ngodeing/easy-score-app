@@ -1,0 +1,9 @@
+.dart_tool
+build
+.flutter-plugins
+.flutter-plugins-dependencies
+pubspec.lock
+android/app/src/google-service.json
+.env
+lib/backend/api_requests/api_calls.dart
+android/app/google-services.json
